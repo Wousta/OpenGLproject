@@ -1,0 +1,6 @@
+/.idea
+/build
+/CMake
+/cmake-build-debug
+/data
+/libs
